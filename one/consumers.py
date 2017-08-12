@@ -3,6 +3,7 @@ from channels.handler import AsgiHandler
 from channels import Group
 from channels.sessions import channel_session
 from urlparse import parse_qs
+import random
 
 
 def http_consumer(message):
@@ -22,8 +23,9 @@ def ws_add(message):
 
 # Connected to websocket.receive
 def ws_message(message):
+    num = random.randint(1, 10)
     Group("chat").send({
-        "text": "[user] %s" % message.content['text'],
+        "text": "The random number is %s , msg %s" % (num, message.content['text'],)
     })
 
 

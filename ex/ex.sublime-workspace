@@ -1,0 +1,3436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ws",
+				"ws_receive\tfunction"
+			],
+			[
+				"chan",
+				"channel_session\timport"
+			],
+			[
+				"parse",
+				"parse_qs\timport"
+			],
+			[
+				"channel",
+				"channel_session"
+			],
+			[
+				"tes",
+				"test_function\tfunction"
+			],
+			[
+				"cele",
+				"celery_app\tmodule"
+			],
+			[
+				"try",
+				"try_parsing_date\tfunction"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"for",
+				"form_data"
+			],
+			[
+				"motor",
+				"motor_liberty_policy\tparam"
+			],
+			[
+				"date",
+				"datetime\tmodule"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"mock",
+				"mock_get_user_data\tfunction"
+			],
+			[
+				"truc",
+				"truecaller_requestlog\tstatement"
+			],
+			[
+				"ass",
+				"assert\tkeyword"
+			],
+			[
+				"true",
+				"truecaller_requestlog\tstatement"
+			],
+			[
+				"cs",
+				"csrf_exempt\tfunction"
+			],
+			[
+				"session",
+				"session_key"
+			],
+			[
+				"trau",
+				"truecaller_requestlog\tparam"
+			],
+			[
+				"Tru",
+				"TruecallerRequestLog\timport"
+			],
+			[
+				"Http",
+				"HttpResponseBadRequest\tclass"
+			],
+			[
+				"HttpRe",
+				"HttpResponseBadRequest\tclass"
+			],
+			[
+				"HttpR",
+				"HttpResponse\tclass"
+			],
+			[
+				"recei",
+				"receive_access_token"
+			],
+			[
+				"Tre",
+				"TruecallerRequestLog\tclass"
+			],
+			[
+				"rec",
+				"receive_access_token\tfunction"
+			],
+			[
+				"True",
+				"TruecallerRequestLog"
+			],
+			[
+				"reques",
+				"request_id\tstatement"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"gen",
+				"generate_access_token\tfunction"
+			],
+			[
+				"class",
+				"classmethod\tdecorator"
+			],
+			[
+				"acc",
+				"access_token\tparam"
+			],
+			[
+				"treu",
+				"truecaller_requestlog\tparam"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"access",
+				"access_token\tstatement"
+			],
+			[
+				"truecall",
+				"truecaller_requestlog"
+			],
+			[
+				"Truecall",
+				"TruecallerRequestLog\tclass"
+			],
+			[
+				"reque",
+				"request_id\tstatement"
+			],
+			[
+				"track",
+				"tracker_id\tparam"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"J",
+				"JSONField\tclass"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"requi",
+				"require_GET\tfunction"
+			],
+			[
+				"customer",
+				"customer_transaction\tstatement"
+			],
+			[
+				"previous_po",
+				"previous_policy_number\tstatement"
+			],
+			[
+				"renew",
+				"renewal_response\tstatement"
+			],
+			[
+				"renewal",
+				"renewal_response\tstatement"
+			],
+			[
+				"last_previous",
+				"last_previous_policy_number\tstatement"
+			],
+			[
+				"last_pre",
+				"last_previous_policy_number\tstatement"
+			],
+			[
+				"last_prev",
+				"last_previous_policy_insurer"
+			],
+			[
+				"curren",
+				"current_transaction\tparam"
+			],
+			[
+				"vehic",
+				"vehicle_type"
+			],
+			[
+				"last",
+				"last_transaction\tparam"
+			],
+			[
+				"name",
+				"namespace\tparam"
+			],
+			[
+				"origin",
+				"original_quote_created_by\tstatement"
+			],
+			[
+				"parent",
+				"parent_quote\tstatement"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"mail",
+				"mail_time\tparam"
+			],
+			[
+				"fd",
+				"fd_date\tparam"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"check",
+				"_check_if_redis_queue_empty"
+			],
+			[
+				"running",
+				"running_server_name\tstatement"
+			],
+			[
+				"_check",
+				"_check_if_redis_queue_empty\tfunction"
+			],
+			[
+				"car",
+				"car_renewal"
+			],
+			[
+				"crm",
+				"crm_utils\timport"
+			],
+			[
+				"task",
+				"task_search"
+			],
+			[
+				"mot",
+				"motor_models"
+			],
+			[
+				"HttpRes",
+				"HttpResponseForbidden\tclass"
+			],
+			[
+				"UL",
+				"ULTRON\tstatement"
+			],
+			[
+				"host",
+				"hostname\tstatement"
+			],
+			[
+				"DEPLOY",
+				"DEPLOY_DIR\tstatement"
+			],
+			[
+				"DEP",
+				"DEPLOY_DIR\tstatement"
+			],
+			[
+				"active",
+				"active_celery_host\tstatement"
+			],
+			[
+				"actti",
+				"active_celery_host"
+			],
+			[
+				"active_",
+				"active_local_settings_path\tstatement"
+			],
+			[
+				"REPO",
+				"REPO_DIR\tstatement"
+			],
+			[
+				"www",
+				"WWW_DIR\tstatement"
+			],
+			[
+				"exec",
+				"execute\tfunction"
+			],
+			[
+				"ULTR",
+				"ULTRON_DIR\tstatement"
+			],
+			[
+				"restart",
+				"restart_supervisor\tfunction"
+			],
+			[
+				"a",
+				"api\tmodule"
+			],
+			[
+				"csf",
+				"csrf_exempt"
+			],
+			[
+				"Dis",
+				"DistributedSignal\tclass"
+			],
+			[
+				"net",
+				"new_set\tstatement"
+			],
+			[
+				"new",
+				"new_set\tstatement"
+			],
+			[
+				"previous",
+				"previous_policy"
+			],
+			[
+				"upda",
+				"update_fields"
+			],
+			[
+				"mtoor",
+				"motor_liberty_policy\tparam"
+			],
+			[
+				"mtor",
+				"motor_liberty_policy\tparam"
+			],
+			[
+				"da",
+				"date\tclass"
+			],
+			[
+				"registra",
+				"registration_number\tparam"
+			],
+			[
+				"get_date",
+				"get_policy_date_range_filter_for_renewal\tfunction"
+			],
+			[
+				"get_po",
+				"get_policy_for_registration_number\tfunction"
+			],
+			[
+				"logg",
+				"logger\tstatement"
+			],
+			[
+				"F",
+				"False\tinstance"
+			],
+			[
+				"crm_",
+				"crm_utils\timport"
+			],
+			[
+				"ticket",
+				"ticket_1\tstatement"
+			],
+			[
+				"tick",
+				"ticket_1\tstatement"
+			],
+			[
+				"tic",
+				"ticket\tstatement"
+			],
+			[
+				"core",
+				"core_models"
+			],
+			[
+				"exc",
+				"excluded_states\tstatement"
+			],
+			[
+				"STATE",
+				"STATE_PRIORITY_FOR_CRM_TICKET\tstatement"
+			],
+			[
+				"fs",
+				"fsm_models\tmodule"
+			],
+			[
+				"S",
+				"State\tclass"
+			],
+			[
+				"succ",
+				"successful_transaction\tparam"
+			],
+			[
+				"url",
+				"urlresolvers\tmodule"
+			],
+			[
+				"No",
+				"NO_CONVERSATION"
+			],
+			[
+				"queue",
+				"queues"
+			],
+			[
+				"Quee",
+				"QueueAdvisor"
+			],
+			[
+				"Q",
+				"QUALIFIED"
+			],
+			[
+				"state",
+				"states\tparam"
+			],
+			[
+				"renewa",
+				"renewal_ticket\tparam"
+			],
+			[
+				"sub",
+				"sub_dispositions"
+			],
+			[
+				"create",
+				"created\tstatement"
+			],
+			[
+				"Task",
+				"TaskEngine"
+			],
+			[
+				"foo",
+				"followup_ticket\tstatement"
+			],
+			[
+				"foll",
+				"followup_ticket\tstatement"
+			],
+			[
+				"update",
+				"updated_task\tstatement"
+			],
+			[
+				"sys",
+				"system_event_1"
+			],
+			[
+				"mobile",
+				"mobile_lead\tfunction"
+			],
+			[
+				"curr",
+				"current_page_offset\tstatement"
+			],
+			[
+				"next",
+				"next_page_offset\tstatement"
+			],
+			[
+				"has",
+				"has_next"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"query",
+				"query_tuple\tforstmt"
+			],
+			[
+				"query_tup",
+				"query_tuple\tforstmt"
+			],
+			[
+				"get_rop",
+				"get_property"
+			],
+			[
+				"get",
+				"get_property"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3329,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 6701 files for \"chat\" (case sensitive)\n\n/Users/aash/projects/channel-example/ex/one/consumers.py:\n   22          message.channel_session['name'] = params['name']\n   23  \n   24:         Group('chat-%s' % (room,)).add(message.reply_channel)\n   25      else:\n   26          message.reply_channel({'close': True})\n   ..\n   30  def ws_receive(message, room):\n   31      username = message.channel_session['name']\n   32:     Group('chat-%s' % (room,)).send({\n   33          \"text\": \"hello people, this is my msg %s\" % (message.content['text'],),\n   34          'username': username\n   ..\n   40      username = message.channel_session['name']\n   41      print(username)\n   42:     Group('chat-%s' % (room,)).discard(message.reply_channel)\n   43  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/autobahn-17.7.1.dist-info/DESCRIPTION.rst:\n    9  \n   10  | **Quick Links**: `Source Code <https://github.com/crossbario/autobahn-python>`__ - `Documentation <https://autobahn.readthedocs.io/en/latest/>`__ - `WebSocket Examples <https://autobahn.readthedocs.io/en/latest/websocket/examples.html>`__ - `WAMP Examples <https://autobahn.readthedocs.io/en/latest/wamp/examples.html>`__\n   11: | **Community**: `Mailing list <http://groups.google.com/group/autobahnws>`__ - `StackOverflow <http://stackoverflow.com/questions/tagged/autobahn>`__ - `Twitter <https://twitter.com/autobahnws>`__ - `IRC #autobahn/chat.freenode.net <https://webchat.freenode.net/>`__\n   12  | **Companion Projects**: `Autobahn|JS <https://github.com/crossbario/autobahn-js/>`__ - `Autobahn|Cpp <https://github.com/crossbario/autobahn-cpp>`__ - `Autobahn|Testsuite <https://github.com/crossbario/autobahn-testsuite>`__ - `Crossbar.io <http://crossbar.io>`__ - `WAMP <http://wamp-proto.org>`__\n   13  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/autobahn-17.7.1.dist-info/METADATA:\n   95  \n   96  | **Quick Links**: `Source Code <https://github.com/crossbario/autobahn-python>`__ - `Documentation <https://autobahn.readthedocs.io/en/latest/>`__ - `WebSocket Examples <https://autobahn.readthedocs.io/en/latest/websocket/examples.html>`__ - `WAMP Examples <https://autobahn.readthedocs.io/en/latest/wamp/examples.html>`__\n   97: | **Community**: `Mailing list <http://groups.google.com/group/autobahnws>`__ - `StackOverflow <http://stackoverflow.com/questions/tagged/autobahn>`__ - `Twitter <https://twitter.com/autobahnws>`__ - `IRC #autobahn/chat.freenode.net <https://webchat.freenode.net/>`__\n   98  | **Companion Projects**: `Autobahn|JS <https://github.com/crossbario/autobahn-js/>`__ - `Autobahn|Cpp <https://github.com/crossbario/autobahn-cpp>`__ - `Autobahn|Testsuite <https://github.com/crossbario/autobahn-testsuite>`__ - `Crossbar.io <http://crossbar.io>`__ - `WAMP <http://wamp-proto.org>`__\n   99  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/daphne/tests/factories.py:\n   91          ('Connection', 'Upgrade'),\n   92          ('Sec-WebSocket-Key', 'x3JJHMbDL1EzLkh9GBhXDw=='),\n   93:         ('Sec-WebSocket-Protocol', 'chat, superchat'),\n   94          ('Sec-WebSocket-Version', '13'),\n   95          ('Origin', 'http://example.com')\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/daphne/tests/test_ws.py:\n  167          # of the channel layer.\n  168          message = self.connection.receive(\n  169:             b\"GET /chat HTTP/1.1\\r\\n\"\n  170              b\"Host: somewhere.com\\r\\n\"\n  171              b\"Upgrade: websocket\\r\\n\"\n  172              b\"Connection: Upgrade\\r\\n\"\n  173              b\"Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==\\r\\n\"\n  174:             b\"Sec-WebSocket-Protocol: chat, superchat\\r\\n\"\n  175              b\"Sec-WebSocket-Version: 13\\r\\n\"\n  176              b\"Origin: http://example.com\\r\\n\"\n  177              b\"\\r\\n\"\n  178          )\n  179:         self.assertEqual(message['path'], \"/chat\")\n  180          self.assertEqual(message['query_string'], b\"\")\n  181          self.assertEqual(\n  ...\n  185               (b'origin', b'http://example.com'),\n  186               (b'sec-websocket-key', b'x3JJHMbDL1EzLkh9GBhXDw=='),\n  187:              (b'sec-websocket-protocol', b'chat, superchat'),\n  188               (b'sec-websocket-version', b'13'),\n  189               (b'upgrade', b'websocket')]\n  190          )\n  191:         self.assert_valid_websocket_connect_message(message, '/chat')\n  192  \n  193          # Accept the connection\n  ...\n  209      def test_connection_with_file_origin_is_accepted(self):\n  210          message = self.connection.receive(\n  211:             b\"GET /chat HTTP/1.1\\r\\n\"\n  212              b\"Host: somewhere.com\\r\\n\"\n  213              b\"Upgrade: websocket\\r\\n\"\n  214              b\"Connection: Upgrade\\r\\n\"\n  215              b\"Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==\\r\\n\"\n  216:             b\"Sec-WebSocket-Protocol: chat, superchat\\r\\n\"\n  217              b\"Sec-WebSocket-Version: 13\\r\\n\"\n  218              b\"Origin: file://\\r\\n\"\n  ...\n  220          )\n  221          self.assertIn((b'origin', b'file://'), message['headers'])\n  222:         self.assert_valid_websocket_connect_message(message, '/chat')\n  223  \n  224          # Accept the connection\n  ...\n  228      def test_connection_with_no_origin_is_accepted(self):\n  229          message = self.connection.receive(\n  230:             b\"GET /chat HTTP/1.1\\r\\n\"\n  231              b\"Host: somewhere.com\\r\\n\"\n  232              b\"Upgrade: websocket\\r\\n\"\n  233              b\"Connection: Upgrade\\r\\n\"\n  234              b\"Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==\\r\\n\"\n  235:             b\"Sec-WebSocket-Protocol: chat, superchat\\r\\n\"\n  236              b\"Sec-WebSocket-Version: 13\\r\\n\"\n  237              b\"\\r\\n\"\n  ...\n  239  \n  240          self.assertNotIn(b'origin', [header_tuple[0] for header_tuple in message['headers']])\n  241:         self.assert_valid_websocket_connect_message(message, '/chat')\n  242  \n  243          # Accept the connection\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/conf/locale/th/LC_MESSAGES/django.po:\n    4  # Abhabongse Janthong, 2015\n    5  # Jannis Leidel <jannis@leidel.info>, 2011\n    6: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2014\n    7  # sipp11 <sipp11@mycapsules.com>, 2014\n    8  # Suteepat Damrongyingsupab <tianissimo@hotmail.com>, 2011-2012\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2013-2014\n    6  # piti118 <piti118@gmail.com>, 2012\n    7  # Suteepat Damrongyingsupab <tianissimo@hotmail.com>, 2011-2012\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/admin/locale/th/LC_MESSAGES/djangojs.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2011-2012\n    6  # Suteepat Damrongyingsupab <tianissimo@hotmail.com>, 2012\n    7  msgid \"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/auth/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2014\n    6  msgid \"\"\n    7  msgstr \"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/contenttypes/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2012\n    6  msgid \"\"\n    7  msgstr \"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/flatpages/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2012\n    6  msgid \"\"\n    7  msgstr \"\"\n    .\n   10  \"POT-Creation-Date: 2015-10-09 17:42+0200\\n\"\n   11  \"PO-Revision-Date: 2016-08-16 07:31+0000\\n\"\n   12: \"Last-Translator: Kowit Charoenratchatabhan <kowit.s.c@gmail.com>\\n\"\n   13  \"Language-Team: Thai (http://www.transifex.com/django/django/language/th/)\\n\"\n   14  \"MIME-Version: 1.0\\n\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/gis/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2012\n    6  # Vichai Vongvorakul <vongvichai@gmail.com>, 2012\n    7  msgid \"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/humanize/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2012\n    6  # sipp11 <sipp11@mycapsules.com>, 2014\n    7  # Vichai Vongvorakul <vongvichai@gmail.com>, 2012\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/django/contrib/sites/locale/th/LC_MESSAGES/django.po:\n    3  # Translators:\n    4  # Jannis Leidel <jannis@leidel.info>, 2011\n    5: # Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2013\n    6  msgid \"\"\n    7  msgstr \"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py:\n  180      def is_non_final(self, c):\n  181          # The normal Tsadi is not a good Non-Final letter due to words like\n  182:         # 'lechotet' (to chat) containing an apostrophe after the tsadi. This\n  183          # apostrophe is converted to a space in FilterWithoutEnglishLetters\n  184          # causing the Non-Final tsadi to appear at an end of a word even\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst:\n   32  ---------------\n   33  \n   34: Everyone interacting in the pip project's codebases, issue trackers, chat\n   35  rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.\n   36  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pip-9.0.1.dist-info/METADATA:\n   62  ---------------\n   63  \n   64: Everyone interacting in the pip project's codebases, issue trackers, chat\n   65  rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.\n   66  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pygments/lexers/_mapping.py:\n  200      'IoLexer': ('pygments.lexers.iolang', 'Io', ('io',), ('*.io',), ('text/x-iosrc',)),\n  201      'IokeLexer': ('pygments.lexers.jvm', 'Ioke', ('ioke', 'ik'), ('*.ik',), ('text/x-iokesrc',)),\n  202:     'IrcLogsLexer': ('pygments.lexers.textfmts', 'IRC logs', ('irc',), ('*.weechatlog',), ('text/x-irclog',)),\n  203      'IsabelleLexer': ('pygments.lexers.theorem', 'Isabelle', ('isabelle',), ('*.thy',), ('text/x-isabelle',)),\n  204      'JLexer': ('pygments.lexers.j', 'J', ('j',), ('*.ijs',), ('text/x-j',)),\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pygments/lexers/textfmts.py:\n   22  class IrcLogsLexer(RegexLexer):\n   23      \"\"\"\n   24:     Lexer for IRC logs in *irssi*, *xchat* or *weechat* style.\n   25      \"\"\"\n   26  \n   27      name = 'IRC logs'\n   28      aliases = ['irc']\n   29:     filenames = ['*.weechatlog']\n   30      mimetypes = ['text/x-irclog']\n   31  \n   ..\n   33      timestamp = r\"\"\"\n   34          (\n   35:           # irssi / xchat and others\n   36            (?: \\[|\\()?                  # Opening bracket or paren for the timestamp\n   37              (?:                        # Timestamp\n   ..\n   44            (?: \\]|\\))?\\s+               # Closing bracket or paren for the timestamp\n   45          |\n   46:           # weechat\n   47            \\d{4}\\s\\w{3}\\s\\d{2}\\s        # Date\n   48            \\d{2}:\\d{2}:\\d{2}\\s+         # Time + Whitespace\n   49          |\n   50:           # xchat\n   51            \\w{3}\\s\\d{2}\\s               # Date\n   52            \\d{2}:\\d{2}:\\d{2}\\s+         # Time + Whitespace\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pytz/__init__.py:\n  767   'Asia/Jerusalem',\n  768   'Asia/Kabul',\n  769:  'Asia/Kamchatka',\n  770   'Asia/Karachi',\n  771   'Asia/Kashgar',\n  ...\n 1336   'Asia/Jerusalem',\n 1337   'Asia/Kabul',\n 1338:  'Asia/Kamchatka',\n 1339   'Asia/Karachi',\n 1340   'Asia/Kathmandu',\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pytz/zoneinfo/zone.tab:\n  355  RU\t+4658+14242\tAsia/Sakhalin\tMSK+08 - Sakhalin Island\n  356  RU\t+6728+15343\tAsia/Srednekolymsk\tMSK+08 - Sakha (E); North Kuril Is\n  357: RU\t+5301+15839\tAsia/Kamchatka\tMSK+09 - Kamchatka\n  358  RU\t+6445+17729\tAsia/Anadyr\tMSK+09 - Bering Sea\n  359  RW\t-0157+03004\tAfrica/Kigali\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pytz/zoneinfo/zone1970.tab:\n  312  RU\t+4658+14242\tAsia/Sakhalin\tMSK+08 - Sakhalin Island\n  313  RU\t+6728+15343\tAsia/Srednekolymsk\tMSK+08 - Sakha (E); North Kuril Is\n  314: RU\t+5301+15839\tAsia/Kamchatka\tMSK+09 - Kamchatka\n  315  RU\t+6445+17729\tAsia/Anadyr\tMSK+09 - Bering Sea\n  316  SA,KW,YE\t+2438+04643\tAsia/Riyadh\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/pytz-2017.2.dist-info/RECORD:\n  330  pytz/zoneinfo/Asia/Jerusalem,sha256=YAGe4NHetuaZShpclRhh4dufmSpcAn-8TjYX-ULAIc8,2265\n  331  pytz/zoneinfo/Asia/Kabul,sha256=OGuYuVsZu-xSxtjzNOBKF49PmfK4oc6jPBQjdWaNcic,229\n  332: pytz/zoneinfo/Asia/Kamchatka,sha256=pF1YfHE0YHy2_q3mr5oEIDw4se1IH3x86OsQ582XLKw,1198\n  333  pytz/zoneinfo/Asia/Karachi,sha256=_EsqaK15763s9S8zP6GcuqXdCEzcm_lquLZadcVZo3A,417\n  334  pytz/zoneinfo/Asia/Kashgar,sha256=muiGjfVEHOSsM6rtd39epog-uVBQt9ZtHl7FZIyeP8w,187\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/setuptools-36.2.1.dist-info/DESCRIPTION.rst:\n   20  \n   21  Everyone interacting in the setuptools project's codebases, issue trackers,\n   22: chat rooms, and mailing lists is expected to follow the\n   23  `PyPA Code of Conduct <https://www.pypa.io/en/latest/code-of-conduct/>`_.\n   24  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/setuptools-36.2.1.dist-info/METADATA:\n   52  \n   53  Everyone interacting in the setuptools project's codebases, issue trackers,\n   54: chat rooms, and mailing lists is expected to follow the\n   55  `PyPA Code of Conduct <https://www.pypa.io/en/latest/code-of-conduct/>`_.\n   56  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/mail/imap4.py:\n  810  \n  811  \n  812:     def arg_fetchatt(self, line):\n  813          \"\"\"\n  814          fetch-att\n  ...\n 1969              self.sendPositiveResponse(tag, b'FETCH complete')\n 1970  \n 1971:     select_FETCH = (do_FETCH, arg_seqset, arg_fetchatt)\n 1972  \n 1973  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/test/test_postfix.py:\n   37          }\n   38  \n   39:     chat = [\n   40          # (input, expected_output),\n   41          ]\n   42  \n   43:     def test_chat(self):\n   44          \"\"\"\n   45          Test that I{get} and I{put} commands are responded to correctly by\n   ..\n   55          protocol.makeConnection(transport)\n   56  \n   57:         for input, expected_output in self.chat:\n   58              protocol.lineReceived(input)\n   59              self.assertEqual(\n   ..\n   79          protocol.makeConnection(transport)\n   80  \n   81:         for input, expected_output in self.chat:\n   82              protocol.lineReceived(input)\n   83              self.assertEqual(\n   ..\n   95          b'bar': b' bar really is found\\r\\n',\n   96          }\n   97:     chat = [\n   98          (b'get', b\"400 Command 'get' takes 1 parameters.\\n\"),\n   99          (b'get foo bar', b\"500 \\n\"),\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/test/test_reflect.py:\n  305              AttributeError,\n  306              reflect.namedAny,\n  307:             \"twisted.test.test_reflect.Summer.nosuchattribute\")\n  308  \n  309  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/__init__.py:\n    4  \n    5  \"\"\"\n    6: Twisted Words: Client and server implementations for IRC, XMPP, and other chat\n    7  services.\n    8  \"\"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/iwords.py:\n  188  \n  189  class IChatService(Interface):\n  190:     name = Attribute(\"A short string identifying this chat service (eg, a hostname)\")\n  191  \n  192      createGroupOnRequest = Attribute(\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/service.py:\n   66  \n   67      def add(self, user):\n   68:         assert iwords.IChatClient.providedBy(user), \"%r is not a chat client\" % (user,)\n   69          if user.name not in self.users:\n   70              additions = []\n   ..\n  186      logout = None\n  187  \n  188:     # An IUser we use to interact with the chat service\n  189      avatar = None\n  190  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/__init__.py:\n    4  \n    5  \"\"\"\n    6: Instance Messenger, Pan-protocol chat client.\n    7  \"\"\"\n    8  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/baseaccount.py:\n   47          del self.accounts[accountName]\n   48  \n   49:     def connect(self, accountName, chatui):\n   50          \"\"\"\n   51          @returntype: Deferred L{interfaces.IClient}\n   52          \"\"\"\n   53:         return self.accounts[accountName].logOn(chatui)\n   54  \n   55      def disconnect(self, accountName):\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/basechat.py:\n    1: # -*- test-case-name: twisted.words.test.test_basechat -*-\n    2  # Copyright (c) Twisted Matrix Laboratories.\n    3  # See LICENSE for details.\n    .\n   14      A GUI object that displays a contacts list.\n   15  \n   16:     @ivar chatui: The GUI chat client associated with this contacts list.\n   17:     @type chatui: L{ChatUI}\n   18  \n   19      @ivar contacts: The contacts.\n   ..\n   29      @type clients: C{list} of L{IClient<interfaces.IClient>} providers\n   30      \"\"\"\n   31:     def __init__(self, chatui):\n   32          \"\"\"\n   33:         @param chatui: The GUI chat client associated with this contacts list.\n   34:         @type chatui: L{ChatUI}\n   35          \"\"\"\n   36:         self.chatui = chatui\n   37          self.contacts = {}\n   38          self.onlineContacts = {}\n   ..\n  111      @type person: L{IPerson<interfaces.IPerson>} provider\n  112  \n  113:     @ivar chatui: The GUI chat client associated with this conversation.\n  114:     @type chatui: L{ChatUI}\n  115      \"\"\"\n  116:     def __init__(self, person, chatui):\n  117          \"\"\"\n  118          @param person: The person who you're having this conversation with.\n  119          @type person: L{IPerson<interfaces.IPerson>} provider\n  120  \n  121:         @param chatui: The GUI chat client associated with this conversation.\n  122:         @type chatui: L{ChatUI}\n  123          \"\"\"\n  124:         self.chatui = chatui\n  125          self.person = person\n  126  \n  ...\n  181      A GUI window of a conversation with a group of people.\n  182  \n  183:     @ivar chatui: The GUI chat client associated with this conversation.\n  184:     @type chatui: L{ChatUI}\n  185  \n  186      @ivar group: The group of people that are having this conversation.\n  ...\n  190      @type members: C{list} of C{str}\n  191      \"\"\"\n  192:     def __init__(self, group, chatui):\n  193          \"\"\"\n  194:         @param chatui: The GUI chat client associated with this conversation.\n  195:         @type chatui: L{ChatUI}\n  196  \n  197          @param group: The group of people that are having this conversation.\n  198          @type group: L{IGroup<interfaces.IGroup>} provider\n  199          \"\"\"\n  200:         self.chatui = chatui\n  201          self.group = group\n  202          self.members = []\n  ...\n  310  class ChatUI:\n  311      \"\"\"\n  312:     A GUI chat client.\n  313  \n  314      @type conversations: C{dict} of L{Conversation}\n  ...\n  372      def getContactsList(self):\n  373          \"\"\"\n  374:         Get the contacts list associated with this chat window.\n  375  \n  376          @rtype: L{ContactsList}\n  377:         @return: The contacts list associated with this chat window.\n  378          \"\"\"\n  379          return self.contactsList\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/basesupport.py:\n    9  \"\"\"\n   10  \n   11: # Abstract representation of chat \"model\" classes\n   12  \n   13  from twisted.words.im.locals import OFFLINE, OfflineError\n   ..\n   93      @ivar _logonDeferred: Fired when I am done logging in.\n   94      \"\"\"\n   95:     def __init__(self, account, chatui, logonDeferred):\n   96          for base in self.__class__.__bases__:\n   97              if issubclass(base, Protocol):\n   ..\n  101              pass\n  102          self.account = account\n  103:         self.chat = chatui\n  104          self._logonDeferred = logonDeferred\n  105  \n  ...\n  113  \n  114      def unregisterAsAccountClient(self):\n  115:         \"\"\"Tell the chat UI that I have `signed off'.\n  116          \"\"\"\n  117:         self.chat.unregisterAccountClient(self)\n  118  \n  119  \n  ...\n  182          return self._isOnline\n  183  \n  184:     def logOn(self, chatui):\n  185          \"\"\"Log on to this account.\n  186  \n  ...\n  194          if (not self._isConnecting) and (not self._isOnline):\n  195              self._isConnecting = 1\n  196:             d = self._startLogOn(chatui)\n  197              d.addCallback(self._cb_logOn)\n  198:             # if chatui is not None:\n  199:             # (I don't particularly like having to pass chatUI to this function,\n  200              # but we haven't factored it out yet.)\n  201:             d.addCallback(chatui.registerAccountClient)\n  202              d.addErrback(self._loginFailed)\n  203              return d\n  ...\n  229          return person\n  230  \n  231:     def _startLogOn(self, chatui):\n  232          \"\"\"Start the sign on process.\n  233  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/interfaces.py:\n    4  \n    5  \"\"\"\n    6: Pan-protocol chat client.\n    7  \"\"\"\n    8  \n    .\n   21  class IAccount(Interface):\n   22      \"\"\"\n   23:     I represent a user's account with a chat service.\n   24      \"\"\"\n   25  \n   ..\n   45          \"\"\"\n   46  \n   47:     def logOn(chatui):\n   48          \"\"\"\n   49          Go on-line.\n   50  \n   51:         @type chatui: Implementor of C{IChatUI}\n   52  \n   53          @rtype: L{Deferred} with an eventual L{IClient} result.\n   ..\n   75      account = Attribute('The L{IAccount} I am a Client for')\n   76  \n   77:     def __init__(account, chatui, logonDeferred):\n   78          \"\"\"\n   79          @type account: L{IAccount}\n   80:         @type chatui: L{IChatUI}\n   81          @param logonDeferred: Will be called back once I am logged on.\n   82          @type logonDeferred: L{Deferred<twisted.internet.defer.Deferred>}\n   ..\n  211      \"\"\"\n  212  \n  213:     def __init__(person, chatui):\n  214          \"\"\"\n  215          @type person: L{IPerson}\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/ircsupport.py:\n   33      def setStatus(self,status):\n   34          self.status=status\n   35:         self.chat.getContactsList().setContactStatus(self)\n   36  \n   37  \n   ..\n   90  \n   91  class IRCProto(basesupport.AbstractClientMixin, irc.IRCClient):\n   92:     def __init__(self, account, chatui, logonDeferred=None):\n   93:         basesupport.AbstractClientMixin.__init__(self, account, chatui,\n   94                                                   logonDeferred)\n   95          self._namreplies={}\n   ..\n  101      def getGroupConversation(self, name, hide=0):\n  102          name = name.lower()\n  103:         return self.chat.getGroupConversation(self.chat.getGroup(name, self),\n  104                                                stayHidden=hide)\n  105  \n  106  \n  107      def getPerson(self,name):\n  108:         return self.chat.getPerson(name, self)\n  109  \n  110  \n  ...\n  124              if self._logonDeferred is not None:\n  125                  self._logonDeferred.callback(self)\n  126:             self.chat.getContactsList()\n  127          except:\n  128              import traceback\n  ...\n  140          Called when I am kicked from a channel.\n  141          \"\"\"\n  142:         return self.chat.getGroupConversation(\n  143:             self.chat.getGroup(channel[1:], self), 1)\n  144  \n  145  \n  ...\n  161              self.getGroupConversation(group).showGroupMessage(username, message, metadata)\n  162              return\n  163:         self.chat.getConversation(self.getPerson(username)).showMessage(message, metadata)\n  164  \n  165  \n  ...\n  172              self.getGroupConversation(group).showGroupMessage(username, emote, meta)\n  173              return\n  174:         self.chat.getConversation(self.getPerson(username)).showMessage(emote,meta)\n  175  \n  176  \n  ...\n  285  \n  286  \n  287:     def _startLogOn(self, chatui):\n  288          logonDeferred = defer.Deferred()\n  289:         cc = protocol.ClientCreator(reactor, IRCProto, self, chatui,\n  290                                      logonDeferred)\n  291          d = cc.connectTCP(self.host, self.port)\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/im/pbsupport.py:\n   52      def setStatus(self, status):\n   53          self.status = status\n   54:         self.chat.getContactsList().setContactStatus(self)\n   55  \n   56  @implementer(interfaces.IGroup)\n   ..\n  100      messages (multiple Words instances may be on a single PB connection)\n  101      \"\"\"\n  102:     def __init__(self, acct, serviceName, perspectiveName, chatui,\n  103                   _logonDeferred=None):\n  104          self.accountName = \"%s (%s:%s)\" % (acct.accountName, serviceName, perspectiveName)\n  105          self.name = perspectiveName\n  106          print(\"HELLO I AM A PB SERVICE\", serviceName, perspectiveName)\n  107:         self.chat = chatui\n  108          self.account = acct\n  109          self._logonDeferred = _logonDeferred\n  110  \n  111      def getPerson(self, name):\n  112:         return self.chat.getPerson(name, self)\n  113  \n  114      def getGroup(self, name):\n  115:         return self.chat.getGroup(name, self)\n  116  \n  117      def getGroupConversation(self, name):\n  118:         return self.chat.getGroupConversation(self.getGroup(name))\n  119  \n  120      def addContact(self, name):\n  ...\n  138  \n  139      def remote_notifyStatusChanged(self, name, status):\n  140:         self.chat.getPerson(name, self).setStatus(status)\n  141  \n  142      def remote_receiveDirectMessage(self, name, message, metadata=None):\n  143:         self.chat.getConversation(self.chat.getPerson(name, self)).showMessage(message, metadata)\n  144  \n  145      def remote_receiveContactList(self, clist):\n  146          for name, status in clist:\n  147:             self.chat.getPerson(name, self).setStatus(status)\n  148  \n  149      def remote_setGroupMetadata(self, dict_, groupName):\n  ...\n  160  \n  161      def _cbGroupJoined(self, result, name):\n  162:         groupConv = self.chat.getGroupConversation(self.getGroup(name))\n  163          groupConv.showGroupMessage(\"sys\", \"you joined\")\n  164          self.perspective.callRemote('getGroupMembers', name)\n  ...\n  166      def _cbGroupLeft(self, result, name):\n  167          print('left',name)\n  168:         groupConv = self.chat.getGroupConversation(self.getGroup(name), 1)\n  169          groupConv.showGroupMessage(\"sys\", \"you left\")\n  170  \n  ...\n  174              self._logonDeferred.callback(self)\n  175          self.perspective = perspective\n  176:         self.chat.getContactsList()\n  177  \n  178  \n  ...\n  204                                    perspectiveName])\n  205  \n  206:     def logOn(self, chatui):\n  207          \"\"\"\n  208          @returns: this breaks with L{interfaces.IAccount}\n  ...\n  214          if (not self._isConnecting) and (not self._isOnline):\n  215              self._isConnecting = 1\n  216:             d = self._startLogOn(chatui)\n  217              d.addErrback(self._loginFailed)\n  218              def registerMany(results):\n  219                  for success, result in results:\n  220                      if success:\n  221:                         chatui.registerAccountClient(result)\n  222                          self._cb_logOn(result)\n  223                      else:\n  ...\n  229  \n  230  \n  231:     def _startLogOn(self, chatui):\n  232          print('Connecting...', end=' ')\n  233          d = pb.getObjectAt(self.host, self.port)\n  234          d.addCallbacks(self._cbConnected, self._ebConnected,\n  235:                        callbackArgs=(chatui,))\n  236          return d\n  237  \n  238:     def _cbConnected(self, root, chatui):\n  239          print('Connected!')\n  240          print('Identifying...', end=' ')\n  241          d = pb.authIdentity(root, self.username, self.password)\n  242          d.addCallbacks(self._cbIdent, self._ebConnected,\n  243:                        callbackArgs=(chatui,))\n  244          return d\n  245  \n  246:     def _cbIdent(self, ident, chatui):\n  247          if not ident:\n  248              print('falsely identified.')\n  ...\n  253              d = defer.Deferred()\n  254              dl.append(d)\n  255:             handler = handlerClass(self, sname, pname, chatui, d)\n  256              ident.callRemote('attach', sname, pname, handler).addCallback(handler.connected)\n  257          return defer.DeferredList(dl)\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/protocols/irc.py:\n 2904      The lineReceived method implemented here uses the DCC connection's\n 2905      'client' attribute (provided upon construction) to deliver incoming\n 2906:     lines from the DCC chat via IRCClient's normal privmsg interface.\n 2907      That's something of a spoof, which you may well want to override.\n 2908      \"\"\"\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/test/test_basechat.py:\n    3  \n    4  \"\"\"\n    5: Tests for L{twisted.words.im.basechat}.\n    6  \"\"\"\n    7  \n    8  from twisted.trial import unittest\n    9: from twisted.words.im import basechat, basesupport\n   10  \n   11  \n   12  class ChatUITests(unittest.TestCase):\n   13      \"\"\"\n   14:     Tests for the L{basechat.ChatUI} chat client.\n   15      \"\"\"\n   16      def setUp(self):\n   17:         self.ui = basechat.ChatUI()\n   18          self.account = basesupport.AbstractAccount(\"fooAccount\", False, \"foo\",\n   19                                                     \"password\", \"host\", \"port\")\n   ..\n   23      def test_contactChangedNickNoKey(self):\n   24          \"\"\"\n   25:         L{basechat.ChatUI.contactChangedNick} on an\n   26          L{twisted.words.im.interfaces.IPerson} who doesn't have an account\n   27:         associated with the L{basechat.ChatUI} instance has no effect.\n   28          \"\"\"\n   29          self.assertEqual(self.person.name, \"foo\")\n   ..\n   37      def test_contactChangedNickNoConversation(self):\n   38          \"\"\"\n   39:         L{basechat.ChatUI.contactChangedNick} changes the name for an\n   40          L{twisted.words.im.interfaces.IPerson}.\n   41          \"\"\"\n   ..\n   53          \"\"\"\n   54          If an L{twisted.words.im.interfaces.IPerson} is in a\n   55:         L{basechat.Conversation}, L{basechat.ChatUI.contactChangedNick} causes a\n   56:         name change for that person in both the L{basechat.Conversation} and the\n   57:         L{basechat.ChatUI}.\n   58          \"\"\"\n   59          self.ui.persons[self.person.name, self.person.account] = self.person\n   60:         conversation = basechat.Conversation(self.person, self.ui)\n   61          self.ui.conversations[self.person] = conversation\n   62  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/test/test_ircsupport.py:\n    8  from twisted.test.proto_helpers import StringTransport\n    9  \n   10: from twisted.words.im.basechat import ChatUI, Conversation, GroupConversation\n   11  from twisted.words.im.ircsupport import IRCAccount, IRCProto\n   12  from twisted.words.im.locals import OfflineError\n   ..\n  177          self.proto.makeConnection(self.transport)\n  178          self.proto.dataReceived(\":alice1 PRIVMSG t2 test_message_1\\r\\n\")\n  179:         conversation = self.proto.chat.getConversation(\n  180              self.proto.getPerson(\"alice1\"))\n  181          self.assertEqual(conversation.message, \"test_message_1\")\n  ...\n  189          groupConversation = self.proto.getGroupConversation(\"foo\")\n  190          self.assertFalse(hasattr(groupConversation, \"text\"))\n  191:         conversation = self.proto.chat.getConversation(\n  192              self.proto.getPerson(\"alice\"))\n  193          self.assertFalse(hasattr(conversation, \"message\"))\n  ...\n  200          self.proto.makeConnection(self.transport)\n  201          self.proto.dataReceived(\":alice1 PRIVMSG alice1 :\\01ACTION smiles\\01\\r\\n\")\n  202:         conversation = self.proto.chat.getConversation(\n  203              self.proto.getPerson(\"alice1\"))\n  204          self.assertEqual(conversation.message, \"smiles\")\n  ...\n  212          groupConversation = self.proto.getGroupConversation(\"foo\")\n  213          self.assertFalse(hasattr(groupConversation, \"text\"))\n  214:         conversation = self.proto.chat.getConversation(\n  215              self.proto.getPerson(\"alice\"))\n  216          self.assertFalse(hasattr(conversation, \"message\"))\n  ...\n  278          \"\"\"\n  279          self.proto.makeConnection(self.transport)\n  280:         group = self.proto.chat.getGroup(\"#foo\", self.proto)\n  281          self.assertRaises(OfflineError, group.sendGroupMessage, \"Some message\")\n  282  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/test/test_jabbererror.py:\n  152          \"\"\"\n  153          stanza = domish.Element(('jabber:client', 'message'))\n  154:         stanza['type'] = 'chat'\n  155          stanza['to'] = 'user1@example.com'\n  156          stanza['from'] = 'user2@example.com/resource'\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/test/test_jabberxmlstream.py:\n  867          \"\"\"\n  868          stanza = domish.Element(('jabber:client', 'message'))\n  869:         stanza['type'] = 'chat'\n  870          response = xmlstream.toResponse(stanza)\n  871          self.assertFalse(response.hasAttribute('to'))\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/test/test_xpath.py:\n  219          Test for not operator.\n  220          \"\"\"\n  221:         xp = XPathQuery(\"/foo[not(@nosuchattrib)]\")\n  222          self.assertEqual(xp.matches(self.e), True)\n  223  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/Twisted-17.5.0.dist-info/RECORD:\n  839  twisted/words/im/__init__.py,sha256=ojtUkusjr0Xe56X-Oo4kmcmDCRCsC9C5qwZQZ_7vyPc,129\n  840  twisted/words/im/baseaccount.py,sha256=s4wY-BSOVxOpuY85qyWzAV_Jcf53V48gPs7MA4ODitc,1808\n  841: twisted/words/im/basechat.py,sha256=sa3FXpKVESXmoCATOAq781KzPg-02vpk_Om42UcN1es,16454\n  842  twisted/words/im/basesupport.py,sha256=AmZMFNSPJRqriDckFSRrx2Ae2DeZUMblNdzi_yIPTpY,7842\n  843  twisted/words/im/instancemessenger.glade,sha256=Scnco66vE3ByEHRbXpG4jkjW8wBquLjVrPtTRXurkRs,77126\n  ...\n  860  twisted/words/protocols/jabber/xmpp_stringprep.py,sha256=JaC22A1_c9_mR0RoxjHZ1oO_VKbRHE4h4kViPK9YcGQ,7221\n  861  twisted/words/test/__init__.py,sha256=wDdSRMUVT0_hf5Fe36M3C6GiB4N1TOqgB41q9B-Ia04,14\n  862: twisted/words/test/test_basechat.py,sha256=y01cIaQ3LrPRUbsdsiTt50w5WeRu-tQrDLHqZe9MQos,2504\n  863  twisted/words/test/test_basesupport.py,sha256=YtA2z8fxt1aP-AYSHpO3PCLNA9t-G5De5ibFH_JEEd8,3064\n  864  twisted/words/test/test_domish.py,sha256=jx6BAojhcrt33zx_eFNIXL5DmX7vnuW1xbF4VhiwfYg,20368\n  ...\n 1221  twisted/conch/ssh/__init__.pyc,,\n 1222  twisted/trial/_dist/managercommands.pyc,,\n 1223: twisted/words/im/basechat.pyc,,\n 1224  twisted/test/test_amp.pyc,,\n 1225  twisted/python/test/test_runtime.pyc,,\n ....\n 1389  twisted/protocols/stateful.pyc,,\n 1390  twisted/python/hook.pyc,,\n 1391: twisted/words/test/test_basechat.pyc,,\n 1392  twisted/internet/test/test_udp_internals.pyc,,\n 1393  twisted/test/stdio_test_producer.pyc,,\n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/wheel-0.29.0.dist-info/DESCRIPTION.rst:\n   44  ---------------\n   45  \n   46: Everyone interacting in the wheel project's codebases, issue trackers, chat\n   47  rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.\n   48  \n\n/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/wheel-0.29.0.dist-info/METADATA:\n   76  ---------------\n   77  \n   78: Everyone interacting in the wheel project's codebases, issue trackers, chat\n   79  rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.\n   80  \n\n183 matches across 47 files\n",
+			"settings":
+			{
+				"buffer_size": 36416,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/sessions.py",
+			"settings":
+			{
+				"buffer_size": 10414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/message.py",
+			"settings":
+			{
+				"buffer_size": 3839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routing.py",
+			"settings":
+			{
+				"buffer_size": 416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/routing.py",
+			"settings":
+			{
+				"buffer_size": 9525,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// Note that the path doesn't matter right now; any WebSocket\n// connection gets bumped over to WebSocket consumers\nsocket = new WebSocket(\"ws://\" + window.location.host + \"/chat/\");\nsocket.onmessage = function(e) {\n    alert(e.data);\n}\nsocket.onopen = function() {\n    socket.send(\"hello world\");\n}\n// Call onopen directly if socket is already open\nif (socket.readyState == WebSocket.OPEN) socket.onopen();",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 825,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/projects/channel-example/ex/one/consumers.py",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// Note that the path doesn't matter right now; any WebSocket\n// connection gets bumped over to WebSocket consumers\nsocket = new WebSocket(\"ws://\" + window.location.host + \"/chat/\");\nsocket.onmessage = function(e) {\n    alert(e.data);\n}\nsocket.onopen = function() {\n    socket.send(\"hello world\");\n}\n// Call onopen directly if socket is already open\nif (socket.readyState == WebSocket.OPEN) socket.onopen();",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/channel.py",
+			"settings":
+			{
+				"buffer_size": 3117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/asgi_redis/core.py",
+			"settings":
+			{
+				"buffer_size": 24504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/__init__.py",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/worker.py",
+			"settings":
+			{
+				"buffer_size": 7101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/aash/projects/coverfox/cfdevops.sublime-project",
+			"settings":
+			{
+				"buffer_size": 615,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "## Elixir\n\n1. Data structures are immutable in Elixir\n\n```ruby\n[head|tail] = [1, 2, 3]\n# head = 1\n# tail = [2, 3]\n\n# it can also concatenate two lists\n[0:tail] # returns [0, 2, 3]\n```\n\nElixir process's should not be confused with os processes - they are extremely light-weight. They communicate with other via message-parsing\n\nTo get the documentation of a particular function, do this:\n\n```ruby\nh self\n```\n\n\n\nElixir is similar to ruby in terms of calling functions.\n\n```ruby\nhello\nhello()\n\n# above are two ways of calling a function\n```\n\n\"Failure first\" is a common philosophy among elixir programmers\n\n1. `spawn` is used to create new process\n2. `send` is used to send messages to other process\n3. `receive` is to receive messages from other processes\n4. A process can send a message to itself\n5. Messages are sent in the from of hash eg: `{hello: \"give something\"}`\n6. The receiver, based on pattern matching, receives the right messages. The key in the message is the one through which message is parsed\n7. If `spawn` fails, the parent processes continues running. If you want to link the parent and child processes, you should use `spawn_link`\n8. A `receiver` won't step until it receives a message. If we want it to stop executing if it doesn't receive a message we can use `after`\n9 `fn -> print \"something\" end` are anonymous functions`\n10 `flush` flushes at the messages sent to shell and prints it out\n\n`Task` has a *better error* reporting mechanism. This is the reason it is used in supervisor processes\n\n`Agents` are simple abstraction around state. `Agent` provides a basic server implementation that allows state to be updated and retreived by a simple API.\n\n\nFunctions can be defined in two ways in elixir\n\n```\nadd_me = &(&1 + &2) # & is referred to a capture operator\n\nadd_me.(1, 2) # returns 3\nis_function(add_me) # returns true\n\nadd_me = fn (a, b) -> a + b end\nadd_me.(1, 2) # returns 3\nis_function(add_me) # returns true\n```\n\n\n```\n# how to deal with agents\n{:ok, pid} = Agent.start_link(fn -> %{} end)\n\nAgent.put(agent, fn map -> Map.put(map, :hello, \"world\") end)\nAgent.get(agent, fn map -> Map.get(map, :hello) end)\n\n# the above things can also be written as using capture operator\nAgent.start_link(&(%{}), name: :ll)\n\nAgent.put(:ll, &(Map.put(&1, :hello, \"world\")))\nAgent.get(:ll, &Map.get(&1, :hello))\n```\n\n\nIf `requests.get()` does not work with https url and throws an error:\n\n```sh\nrequests.exceptions.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:590)\n```\n\nyou need to first remove requests by doing `pip uninstall requests`\n\nand then install the following:\n```sh\npip install pyopenssl ndg-httpsclient pyasn1\npip install requests[security]\n```\n\nWorking with pandas - commands:\n```python\nimport pandas as pd\nurl = \"http://s3.amazonaws.com/assets.datacamp.com/course/Kaggle/train.csv\"\ntrain = pd.read_csv(url)\ntrain.describe()\ntrain['Survived'].value_counts() # similar to group by count\ntrain['Survived'][train['age'] > 22] # similar to group by with conditions on other columns\n# you can add more conditions to the right to restrict the count further. It is like adding a filter\n\n## adding an new colum is easy\ntrain['new_var'] = 0\ntrain['new_var'][train['Sex'] == 'male'] = 1 # setting that column on the basis of conditions\n\ntrain['new_var'].values # to get only the values\ntrain[['a', 'b', 'c']].values() # values of three columns\n\nprint(train)\n\n# Create the target and features numpy arrays: target, features_one\ntarget = train['Survived'].values\nfeatures_one = train[[\"Pclass\", \"Sex\", \"Age\", \"Fare\"]].values\n\nfrom sklearn import tree\n\n# Fit your first decision tree: my_tree_one\nmy_tree_one = tree.DecisionTreeClassifier()\nmy_tree_one = my_tree_one.fit(features_one, target)\n\n# Look at the importance and score of the included features\nprint(my_tree_one.feature_importances_)\nprint(my_tree_one.score(features_one, target))\n\n```\ncustom scaling using periodic checks to see how many elements are there in the queue and scaling according to that\n\nSo I am checking whether the services keep running when I create an instance from the AMI\n\nI am unable to assign a public address to it since I didn’t assign it while creating the instance from AMI\n\nAfter creating a new instance which has a public address, which I created using the AMI that was already present, I created a new machine.\n\nThis new machine has the services running - by services I mean, nginx, gunicorn, supervisord. This looks cool, So one way is to have multiple AMIs and each will have its own autoscaling component.\n\nI can also define a custom metric which will use periodic tasks to check the length of the queue.\nIf the items in the queue reach a specific threshold,  I can tell amazon to spawn a new server. This is a part of how autoscaling works.\nhttps://stackoverflow.com/questions/27441223/autoscale-python-celery-with-amazon-ec2\n\nI am trying to write a function that that will push elements in the queue rapidly. The receivers are not as fast as senders. So the queue will pile up. I want see if I can configure scaling on aws using this function as a reason for scaling.\n\n### Graceful shutdown\nhttps://stackoverflow.com/questions/20468955/aws-autoscaling-downscale-wait-for-processes-termination\nThis would make that the services that are shutdown are done gracefully.\nThis is helpful while scaling down. I need to make sure that the server that is going down has executed all the tasks.\n\nWithout worrying about how scaling down will work. I need to first see whether scaling out works as expected\n\nI have decide to start supervisord on the other server if one of the webhook is called\n\nI don't know what is the difference between and roles and roledefs yet in fabfile.\n\n\nCAP theorem by E.A Brewer:\nC - Consistency\nA - Availibility\nP - Partition\n\nIt states that any dataabase can support only two of the above attributes.\n1. RDMS ensures consistency and availibility, but cannot support partition.\n2. NoSQL databases were popularized as provided availibility and partition but not consistency\n\nCassandra provides \"Tunable consistency\" - tune config on per query basis - can keep different for read and write requests.\n\n\nI have been wondering what `six` in python is:\nIt is a compatibility library between python 2 and 3\n\ndjango channel\n`message.reply_channel` - unique response channel for that client\n\n\nchannels:\nInterface Server -- channel layer -- worker server\n",
+			"file": "/Users/aash/personal/learn.md",
+			"file_size": 6349,
+			"file_write_time": 131453555500000000,
+			"settings":
+			{
+				"buffer_size": 6410,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "set syntax java",
+		"selected_items":
+		[
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"set syn text",
+				"Set Syntax: Textile"
+			],
+			[
+				"set mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"filedi",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"brow",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"them",
+				"Material Theme: Activate theme"
+			],
+			[
+				"blAM",
+				"Git: Blame"
+			],
+			[
+				"set syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"BLAM",
+				"Git: Blame"
+			],
+			[
+				"convert to",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"synta py",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"setsyntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bl",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"anaconda sett",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"ana",
+				"Anaconda: Next lint error"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"sni",
+				"Snippet: mylogging"
+			],
+			[
+				"snippe",
+				"Snippet: timeme"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"eanble",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snippet",
+				"Snippet: timeme"
+			],
+			[
+				"snipp",
+				"Snippet: timeme"
+			],
+			[
+				"snippet:lo",
+				"Snippet: mylogging"
+			],
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			],
+			[
+				"brw",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"sublime",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"anacond",
+				"Anaconda: Next lint error"
+			],
+			[
+				"DISA",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"BL",
+				"Git: Blame"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inted",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"anaconda  ",
+				"Anaconda: Next lint error"
+			],
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"compare",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"SET SYNTAXLE",
+				"Set Syntax: LESS"
+			],
+			[
+				"BLA",
+				"Git: Blame"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"gti bl",
+				"Git: Blame"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"ins",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aash/projects/channel-example/ex",
+		"/Users/aash/projects/channel-example/ex/ex",
+		"/Users/aash/projects/channel-example/ex/one",
+		"/Users/aash/.virtualenvs/ch",
+		"/Users/aash/.virtualenvs/ch/lib",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels"
+	],
+	"file_history":
+	[
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/web/http.py",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/twisted/words/protocols/jabber/component.py",
+		"/Users/aash/projects/channel-example/ex/one/views.py",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/handler.py",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/hacks.py",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/apps.py",
+		"/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/models.py",
+		"/Users/aash/projects/channel-example/ex/ex/ex.sublime-project",
+		"/Users/aash/projects/coverfox/git/rblog/base/integrations/motor/tata_aig/payment_policy_generation.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/account_manager/signals/handlers.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/reports/utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/cache_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/common/dispatch.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/cfcrons/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/renewal/tasks.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/apps.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/motor/renewal/views/test_renewal_view.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/life_product/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/renewal/motor/services.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/freshdesk_webhook/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/.tox/py27/lib/python2.7/site-packages/debug_toolbar/panels/sql/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/prod_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/signals.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/health_product/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/insurers/hdfc_ergo/integration.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/prod_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/account_manager/utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/forms.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/coverfox/charm/health_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/health_product/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/life_product/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/scripts/ONE_OFF_SCRIPTS/ultron_data_fixes.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/otp/test_views.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/truecaller/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/truecaller/test_flow.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/renewal/netcore_service.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/settings.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/event.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/truecaller/conftest.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/core/conftest.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/motor/policy/test_renewal_functions.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/otp/conftest.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/middlewares.py",
+		"/Users/aash/projects/coverfox/git/rblog/libs/utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/services.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/scripts/renewal_migration_fix.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/services.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/travel_product/views.py",
+		"/Users/aash/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/aash/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/aash/projects/coverfox/git/coverfoxg.sublime-project",
+		"/Users/aash/projects/coverfox/git/rblog/base/account_manager/cfsupport_views.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/travel/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/templates/regular-otp-popup.html",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/admin.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/truecaller/tests.py",
+		"/Users/aash/.virtualenvs/envproj/src/django-oauth-toolkit/oauth2_provider/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/putils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/ticket_engine.py",
+		"/Users/aash/.virtualenvs/envproj/src/django-oauth-toolkit/oauth2_provider/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/constants.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/regression_tests/conftest.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/regression_tests/motor/test_communication_service.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/utils/transaction.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/service/transaction_service.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/quotes/service/tasks.py",
+		"/Users/aash/projects/coverfox/git/rblog/libs/cfutils/mixins.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/apps.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/static/motor_product/amd-js/models/buy/index.js",
+		"/Users/aash/projects/coverfox/git/rblog/static/motor_product/amd-js/models/desktop/steps/index.js",
+		"/Users/aash/projects/coverfox/git/rblog/fabfile.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/templates/campaign/motor/expired-car-insurance.html",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/landing_pages/car.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/landing_pages/health.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/landing_pages/travel.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/landing_pages/__init__.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/campaign/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/marketing/forms.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/marketing/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/marketing/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/travel_product/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/otp/middlewares.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/account_manager/signals/signals.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/task_engine.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/motor_admin/forms.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/motor_admin/views.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/motor_admin/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/renewal/motor/conversion_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/motor/policy/test_populate_policy.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/motor/policy/test_proposal_link_from_policy.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/permission_engine/constants.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/migrations/0029_add_dispostion_sub_dispostion_for_closed_resolved_tasks.py",
+		"/Users/aash/projects/coverfox/git/rblog/tests/motor/policy/test_renewal_quote.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/renewal/motor/constants.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/endorsement/endorsement_utils.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/forms.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/endorsement/services.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/core/signals.py",
+		"/Users/aash/.virtualenvs/envproj/lib/python2.7/site-packages/compressor/signals.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/motor_product/communication_service.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/scripts/policy_old_data.py",
+		"/Users/aash/personal/dy/2017/ramblings.md",
+		"/Users/aash/projects/coverfox/git/rblog/libs/multi_query_set_paginator.py",
+		"/Users/aash/projects/coverfox/code.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/urls.py",
+		"/Users/aash/projects/coverfox/git/rblog/base/crm/ucbox/models.py",
+		"/Users/aash/projects/coverfox/git/rblog/static/js/bike-product/utils/CIDV.tsx",
+		"/Users/aash/projects/coverfox/git/rblog/tests/utils/test_multi_query_set_paginator.py",
+		"/Users/aash/.virtualenvs/envproj/lib/python2.7/site-packages/celery/utils/threads.py",
+		"/Users/aash/projects/coverfox/git/rblog/.tox/py27/lib/python2.7/site-packages/celery/utils/threads.py",
+		"/Users/aash/projects/coverfox/git/rblog/jarvis/confs/supervisor_confs/celery_dist_coverfox.conf.template",
+		"/Users/aash/.virtualenvs/envproj/lib/python2.7/site-packages/celery/worker/state.py",
+		"/Users/aash/.virtualenvs/envproj/lib/python2.7/site-packages/celery/worker/autoscale.py",
+		"/Users/aash/personal/learn.md",
+		"/Users/aash/projects/coverfox/git/rblog/base/life_product/urls.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/aash/projects/coverfox/git/rblog/base/,.py",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/scripts,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.html",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.html",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/*.py",
+			"/Users/aash/projects/coverfox/git/rblog/static/js/bike-product/",
+			"/Users/aash/projects/coverfox/git/rblog/statis/js/",
+			"/Users/aash/projects/coverfox/git/rblog/statis/js/bike-product/",
+			"/Users/aash/projects/coverfox/git/rblog/statis/js/bike-product/utils/",
+			"/Users/aash/projects/coverfox/git/rblog/statis/js/bike-product/utils/*",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/libs",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm/",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/static",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/static",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog",
+			"/Users/aash/projects/coverfox/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/tests/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/*~*.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/*~*.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/~.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/base/core",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests/",
+			"/Users/aash/projects/coverfox/git/rblog",
+			"/Users/aash/projects/coverfox/git/rblog*.py",
+			"/Users/aash/projects/coverfox/git/rblog/*.py",
+			"/Users/aash/projects/coverfox/git/rblog",
+			"/Users/aash/projects/coverfox/git/rblog,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/tests,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/motor_product/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.js,*.html",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/motor_product/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/,*.html,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/,*.html",
+			"/Users/aash/projects/coverfox/git/rblog/,*.HTML",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/tests/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/base/,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/scripts",
+			"/Users/aash/projects/coverfox/git/rblog/,*.py,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/base,*.py,*.js",
+			"/Users/aash/projects/coverfox/git/rblog/base,*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/-*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/(*.py)",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/core/migrations/",
+			"/Users/aash/projects/coverfox/git/rblog/core/migrations/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/renewal/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/tests/motor",
+			"/Users/aash/projects/coverfox/git/rblog/base",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/finitestatemachine",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm",
+			"/Users/aash/projects/coverfox/git/rblog/crm",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/base/(.*).py",
+			"/Users/aash/projects/coverfox/git/rblog/base/.*.py",
+			"/Users/aash/projects/coverfox/git/rblog/base/",
+			"/Users/aash/projects/coverfox/git/rblog/",
+			"/Users/aash/projects/coverfox/git/rblog/\\*.js",
+			"/Users/aash/projects/coverfox/git/rblog/*.js",
+			"/Users/aash/projects/coverfox/git/rblog/*",
+			"/Users/aash/projects/coverfox/git/rblog/*.js",
+			"/Users/aash/projects/coverfox/git/rblog/base/crm/*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"chat",
+			"parse",
+			"Route",
+			"route",
+			"rouote",
+			"DEFAULT_CHANNEL_LAYER",
+			"TicketSwitchedInfo",
+			"INSTALLED",
+			"ChannelLayer",
+			"urls",
+			"abort",
+			"abor",
+			"QUEUES",
+			"apply_async",
+			"premium_fetch",
+			"generate_policy",
+			"async",
+			"auth_type",
+			"attribute_url",
+			"view_class",
+			"affiliate",
+			"affiliate_url",
+			"Affiliate",
+			"DATABASES",
+			"DATAASES",
+			"DATABASES",
+			"DATABASE",
+			"tasks",
+			"_fd_date_to_obj",
+			"_fd_",
+			"_fd_to_",
+			"_fd_to_motor_date",
+			"_fd_to_motor_data",
+			"path",
+			"FOLDER",
+			"6px",
+			"transaction",
+			"MODES.get",
+			"MODES.create",
+			"auth_type",
+			"LeadForm",
+			"auth_ty",
+			"contact_typ",
+			"contact",
+			"affiliate_url",
+			"Affiliate",
+			"response.json",
+			"auth_type",
+			"KEY",
+			"TRUECALLER_API_KEY",
+			"auth_type",
+			"get_or_create_contact",
+			"policy_uploaded",
+			"lib",
+			"path",
+			"datetime",
+			"get_email",
+			"registration_number",
+			"policy_details_raw",
+			"registration_number",
+			"utils",
+			"kinds",
+			"utils",
+			"Paginator",
+			"get_ticket(",
+			"get_ticket",
+			"get_email_from_session",
+			"get_ticket(",
+			"kinds",
+			"get_email_from_session",
+			":\n",
+			"get_ticket",
+			"get_ticket(",
+			"create_copy_quote",
+			"purge",
+			"Validation",
+			"ticket_created",
+			"event_created",
+			"<<",
+			"RTOMapping not present for this insurer",
+			"renewal_initiated",
+			"renewal_initated",
+			"distribute_signal",
+			"renewal_initiated",
+			"tol",
+			"toll",
+			"otp_login",
+			"csrf_exempt",
+			"generate_access_token",
+			"OTPModelMixin",
+			"services",
+			"mock_generate_access_token",
+			"mock_send_request_for_access_token",
+			"@mock",
+			"has_response_received_from_truecaller",
+			"ticket_switched",
+			"dummy",
+			"HttpResponseBadRequest",
+			"TrackerLogic",
+			"TrackMiddleware",
+			"contact",
+			"get_model_for_contact",
+			"OTPModelMixin",
+			"auth_login",
+			"from django.views.decorators.http import require_POST",
+			"help_text",
+			"mobile_validator",
+			"payment_on",
+			"SystemActivity.create",
+			"FiniteStateMachineSubdispositionMap",
+			"is_rollover_allowed",
+			"is_rollover",
+			"generate_proposal",
+			"prev_pol_no",
+			"reg_no",
+			"renewal_details",
+			"get_renewal_data",
+			"form_data",
+			"renewal",
+			"from",
+			"landing_pages",
+			"LP_DICT",
+			"page_type_choices",
+			"urls.py",
+			"INSTALLED_APPS",
+			"OTPConfig",
+			"flush_otp_login",
+			"auth_login"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"$1\",",
+			"$1,",
+			"(.*),",
+			"\"$1\",",
+			"$1,",
+			"\\n",
+			",",
+			"\"\\1\",",
+			"\"(\\1)\",",
+			"\\\"\\1\\\",",
+			"\"\\1\",",
+			"\"$1\",",
+			",",
+			"",
+			",",
+			"-$0",
+			", ",
+			"-$0",
+			",",
+			"-$0",
+			",",
+			"-$0",
+			"-",
+			",",
+			"",
+			",",
+			"-$0",
+			",",
+			"-$0",
+			"-$1",
+			",",
+			"get_advisor",
+			"olms.core",
+			"PolicyForm",
+			"renewal_utils.get_state_mapping",
+			"get_policy_date_range_filter_for_renewal",
+			" ,",
+			" + ",
+			":",
+			"car",
+			"ProposerDetails",
+			"fd_to_motor_date",
+			"_iso_to_date",
+			"quote.raw_data",
+			"core_forms",
+			"_match_result",
+			"marital_status",
+			" ",
+			"",
+			"cdaccount_services",
+			"LEAFLET_CAMPAIGN_REFERRAL_CODE_REGEX",
+			"DealershipRegistrationForm",
+			"PROTECT",
+			"JSONForm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2089,
+								2089
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"function_name_status_row": 73,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 683.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36416,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										202,
+										206
+									],
+									[
+										436,
+										440
+									],
+									[
+										691,
+										695
+									],
+									[
+										1411,
+										1415
+									],
+									[
+										1441,
+										1445
+									],
+									[
+										2434,
+										2438
+									],
+									[
+										2464,
+										2468
+									],
+									[
+										3038,
+										3042
+									],
+									[
+										3049,
+										3053
+									],
+									[
+										3350,
+										3354
+									],
+									[
+										3621,
+										3625
+									],
+									[
+										3632,
+										3636
+									],
+									[
+										3842,
+										3846
+									],
+									[
+										4129,
+										4133
+									],
+									[
+										4140,
+										4144
+									],
+									[
+										4338,
+										4342
+									],
+									[
+										4541,
+										4545
+									],
+									[
+										4812,
+										4816
+									],
+									[
+										4823,
+										4827
+									],
+									[
+										5094,
+										5098
+									],
+									[
+										5295,
+										5299
+									],
+									[
+										5566,
+										5570
+									],
+									[
+										5577,
+										5581
+									],
+									[
+										5851,
+										5855
+									],
+									[
+										6117,
+										6121
+									],
+									[
+										6480,
+										6484
+									],
+									[
+										6847,
+										6851
+									],
+									[
+										7179,
+										7183
+									],
+									[
+										7465,
+										7469
+									],
+									[
+										7748,
+										7752
+									],
+									[
+										7969,
+										7973
+									],
+									[
+										8324,
+										8328
+									],
+									[
+										8646,
+										8650
+									],
+									[
+										8995,
+										8999
+									],
+									[
+										9331,
+										9335
+									],
+									[
+										9748,
+										9752
+									],
+									[
+										10038,
+										10042
+									],
+									[
+										10505,
+										10509
+									],
+									[
+										10924,
+										10928
+									],
+									[
+										10937,
+										10941
+									],
+									[
+										11061,
+										11065
+									],
+									[
+										11199,
+										11203
+									],
+									[
+										11500,
+										11504
+									],
+									[
+										11661,
+										11665
+									],
+									[
+										11925,
+										11929
+									],
+									[
+										12053,
+										12057
+									],
+									[
+										12360,
+										12364
+									],
+									[
+										12379,
+										12383
+									],
+									[
+										12728,
+										12732
+									],
+									[
+										12747,
+										12751
+									],
+									[
+										13143,
+										13147
+									],
+									[
+										13584,
+										13588
+									],
+									[
+										13922,
+										13926
+									],
+									[
+										14185,
+										14189
+									],
+									[
+										14387,
+										14391
+									],
+									[
+										14533,
+										14537
+									],
+									[
+										14630,
+										14634
+									],
+									[
+										14857,
+										14861
+									],
+									[
+										15062,
+										15066
+									],
+									[
+										15239,
+										15243
+									],
+									[
+										15577,
+										15581
+									],
+									[
+										15791,
+										15795
+									],
+									[
+										16013,
+										16017
+									],
+									[
+										16293,
+										16297
+									],
+									[
+										16486,
+										16490
+									],
+									[
+										16678,
+										16682
+									],
+									[
+										16896,
+										16900
+									],
+									[
+										17057,
+										17061
+									],
+									[
+										17263,
+										17267
+									],
+									[
+										17444,
+										17448
+									],
+									[
+										17460,
+										17464
+									],
+									[
+										17525,
+										17529
+									],
+									[
+										17721,
+										17725
+									],
+									[
+										17771,
+										17775
+									],
+									[
+										17787,
+										17791
+									],
+									[
+										17856,
+										17860
+									],
+									[
+										17913,
+										17917
+									],
+									[
+										17922,
+										17926
+									],
+									[
+										18099,
+										18103
+									],
+									[
+										18115,
+										18119
+									],
+									[
+										18179,
+										18183
+									],
+									[
+										18250,
+										18254
+									],
+									[
+										18460,
+										18464
+									],
+									[
+										18476,
+										18480
+									],
+									[
+										18544,
+										18548
+									],
+									[
+										18601,
+										18605
+									],
+									[
+										18610,
+										18614
+									],
+									[
+										18758,
+										18762
+									],
+									[
+										18774,
+										18778
+									],
+									[
+										18838,
+										18842
+									],
+									[
+										19045,
+										19049
+									],
+									[
+										19095,
+										19099
+									],
+									[
+										19111,
+										19115
+									],
+									[
+										19179,
+										19183
+									],
+									[
+										19394,
+										19398
+									],
+									[
+										19403,
+										19407
+									],
+									[
+										19536,
+										19540
+									],
+									[
+										19737,
+										19741
+									],
+									[
+										19860,
+										19864
+									],
+									[
+										20077,
+										20081
+									],
+									[
+										20297,
+										20301
+									],
+									[
+										20512,
+										20516
+									],
+									[
+										20519,
+										20523
+									],
+									[
+										20674,
+										20678
+									],
+									[
+										20747,
+										20751
+									],
+									[
+										20876,
+										20880
+									],
+									[
+										21092,
+										21096
+									],
+									[
+										21173,
+										21177
+									],
+									[
+										21256,
+										21260
+									],
+									[
+										21372,
+										21376
+									],
+									[
+										21557,
+										21561
+									],
+									[
+										21747,
+										21751
+									],
+									[
+										21881,
+										21885
+									],
+									[
+										21972,
+										21976
+									],
+									[
+										22056,
+										22060
+									],
+									[
+										22284,
+										22288
+									],
+									[
+										22390,
+										22394
+									],
+									[
+										22629,
+										22633
+									],
+									[
+										22879,
+										22883
+									],
+									[
+										23065,
+										23069
+									],
+									[
+										23165,
+										23169
+									],
+									[
+										23404,
+										23408
+									],
+									[
+										23435,
+										23439
+									],
+									[
+										23612,
+										23616
+									],
+									[
+										23798,
+										23802
+									],
+									[
+										23987,
+										23991
+									],
+									[
+										24038,
+										24042
+									],
+									[
+										24241,
+										24245
+									],
+									[
+										24479,
+										24483
+									],
+									[
+										24621,
+										24625
+									],
+									[
+										24746,
+										24750
+									],
+									[
+										25051,
+										25055
+									],
+									[
+										25311,
+										25315
+									],
+									[
+										25604,
+										25608
+									],
+									[
+										25611,
+										25615
+									],
+									[
+										25778,
+										25782
+									],
+									[
+										25877,
+										25881
+									],
+									[
+										25987,
+										25991
+									],
+									[
+										26178,
+										26182
+									],
+									[
+										26331,
+										26335
+									],
+									[
+										26357,
+										26361
+									],
+									[
+										26545,
+										26549
+									],
+									[
+										26759,
+										26763
+									],
+									[
+										27058,
+										27062
+									],
+									[
+										27303,
+										27307
+									],
+									[
+										27442,
+										27446
+									],
+									[
+										27692,
+										27696
+									],
+									[
+										27922,
+										27926
+									],
+									[
+										28101,
+										28105
+									],
+									[
+										28325,
+										28329
+									],
+									[
+										28407,
+										28411
+									],
+									[
+										28678,
+										28682
+									],
+									[
+										28757,
+										28761
+									],
+									[
+										28983,
+										28987
+									],
+									[
+										29415,
+										29419
+									],
+									[
+										29707,
+										29711
+									],
+									[
+										29815,
+										29819
+									],
+									[
+										29940,
+										29944
+									],
+									[
+										29953,
+										29957
+									],
+									[
+										30038,
+										30042
+									],
+									[
+										30321,
+										30325
+									],
+									[
+										30482,
+										30486
+									],
+									[
+										30701,
+										30705
+									],
+									[
+										30945,
+										30949
+									],
+									[
+										30971,
+										30975
+									],
+									[
+										31073,
+										31077
+									],
+									[
+										31121,
+										31125
+									],
+									[
+										31272,
+										31276
+									],
+									[
+										31584,
+										31588
+									],
+									[
+										31944,
+										31948
+									],
+									[
+										32278,
+										32282
+									],
+									[
+										32610,
+										32614
+									],
+									[
+										32936,
+										32940
+									],
+									[
+										33190,
+										33194
+									],
+									[
+										33537,
+										33541
+									],
+									[
+										33876,
+										33880
+									],
+									[
+										34192,
+										34196
+									],
+									[
+										34575,
+										34579
+									],
+									[
+										35086,
+										35090
+									],
+									[
+										35473,
+										35477
+									],
+									[
+										35679,
+										35683
+									],
+									[
+										35996,
+										36000
+									],
+									[
+										36291,
+										36295
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"function_name_status_row": 0,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/sessions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 13,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/message.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 6,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 77.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"function_name_status_row": 8,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/routing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"function_name_status_row": 21,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1393.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								407
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 21,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/aash/projects/channel-example/ex/one/consumers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "",
+							"function_name_status_row": 28,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 2,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/channel.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3023,
+								3023
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 87,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 532.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/asgi_redis/core.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7331,
+								7331
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 190,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/aash/.virtualenvs/ch/lib/python2.7/site-packages/channels/worker.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/aash/projects/coverfox/cfdevops.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								278
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 7,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/aash/personal/learn.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6410,
+								6410
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 176,
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1736.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "ex.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"url",
+				"ex/ex/urls.py"
+			],
+			[
+				"con",
+				"ex/one/consumers.py"
+			],
+			[
+				"sett",
+				"ex/ex/settings.py"
+			],
+			[
+				"",
+				"ex/ex/routing.py"
+			],
+			[
+				"rou",
+				"ex/ex/routing.py"
+			],
+			[
+				"consu",
+				"ex/one/consumers.py"
+			],
+			[
+				"channel/ses",
+				"ch/lib/python2.7/site-packages/channels/sessions.py"
+			],
+			[
+				"s",
+				"ex/ex/settings.py"
+			],
+			[
+				"lear",
+				"~/personal/learn.md"
+			],
+			[
+				"/lib/python2.7/site-packages/channels/routing.py",
+				"ch/lib/python2.7/site-packages/channels/routing.py"
+			],
+			[
+				"se",
+				"ex/ex/settings.py"
+			],
+			[
+				"views",
+				"one/views.py"
+			],
+			[
+				"settin",
+				"ex/settings.py"
+			],
+			[
+				"fab_ser",
+				"cfdevops/webhooks/fab_services.py"
+			],
+			[
+				"truecall/ser",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"settings",
+				"rblog/base/settings.py"
+			],
+			[
+				"quote/service/tas",
+				"rblog/base/motor_product/quotes/service/tasks.py"
+			],
+			[
+				"true/vi",
+				"rblog/base/truecaller/views.py"
+			],
+			[
+				"otp/__",
+				"rblog/base/otp/__init__.py"
+			],
+			[
+				"setting",
+				"rblog/base/settings.py"
+			],
+			[
+				"true/mod",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"travel.py",
+				"rblog/base/campaign/landing_pages/travel.py"
+			],
+			[
+				"true/viwe",
+				"rblog/base/truecaller/views.py"
+			],
+			[
+				"trucall/ser",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"motor_prod/view",
+				"rblog/base/motor_product/views.py"
+			],
+			[
+				"fabfile",
+				"rblog/fabfile.py"
+			],
+			[
+				"local_settings_",
+				"rblog/confs/local_settings_testing.py"
+			],
+			[
+				"local",
+				"rblog/base/local_settings.py"
+			],
+			[
+				"jarvis_lo",
+				"rblog/jarvis/jarvis_local_settings.py"
+			],
+			[
+				"crm/con",
+				"rblog/tests/crm/conftest.py"
+			],
+			[
+				"core/prod",
+				"rblog/base/core/prod_utils.py"
+			],
+			[
+				"motor/con",
+				"rblog/tests/motor/conftest.py"
+			],
+			[
+				"policy/con",
+				"rblog/tests/motor/policy/conftest.py"
+			],
+			[
+				"test_rene",
+				"rblog/tests/motor/policy/test_renewal_functions.py"
+			],
+			[
+				"rene/cnover",
+				"rblog/base/renewal/motor/conversion_utils.py"
+			],
+			[
+				"requ",
+				"rblog/requirements.txt"
+			],
+			[
+				".git",
+				"rblog/.gitignore"
+			],
+			[
+				"reactotp",
+				"rblog/static/pcss/react-otp-modal.css"
+			],
+			[
+				"tru/mod",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"account/views",
+				"rblog/base/account_manager/views.py"
+			],
+			[
+				"core/mod",
+				"rblog/base/core/models.py"
+			],
+			[
+				"otp/view",
+				"rblog/base/otp/views.py"
+			],
+			[
+				"core/ticket",
+				"rblog/base/core/ticket_engine.py"
+			],
+			[
+				"otppop",
+				"rblog/static/js/common/new-components/OTP-Popup.tsx"
+			],
+			[
+				"otp/views",
+				"rblog/base/otp/views.py"
+			],
+			[
+				"otp",
+				"rblog/static/js/common/new-components/OTP-Popup.tsx"
+			],
+			[
+				"otpp",
+				"rblog/static/css/otp-popup.css"
+			],
+			[
+				"code",
+				"~/projects/coverfox/code.py"
+			],
+			[
+				"motor_prod/vi",
+				"rblog/base/motor_product/views.py"
+			],
+			[
+				"test_renew",
+				"rblog/tests/motor/policy/test_renewal_functions.py"
+			],
+			[
+				"rene/conver",
+				"rblog/base/renewal/motor/conversion_utils.py"
+			],
+			[
+				"service",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"testflow",
+				"rblog/tests/truecaller/test_flow.py"
+			],
+			[
+				"tru/serv",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"truecal/seri",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"services",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"otp/vi",
+				"rblog/base/otp/views.py"
+			],
+			[
+				"tru/mode",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"true/mo",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"otop/__ini",
+				"rblog/base/otp/__init__.py"
+			],
+			[
+				"dispa",
+				"rblog/common/dispatch.py"
+			],
+			[
+				"truecall/mo",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"travel/mo",
+				"rblog/tests/travel/models.py"
+			],
+			[
+				"travel/vi",
+				"rblog/base/travel_product/views.py"
+			],
+			[
+				"travel/vie",
+				"rblog/base/travel_product/views.py"
+			],
+			[
+				"travel/view",
+				"rblog/base/travel_product/views.py"
+			],
+			[
+				"cfsup",
+				"rblog/base/account_manager/cfsupport_views.py"
+			],
+			[
+				"motor/prod",
+				"rblog/base/motor_product/prod_utils.py"
+			],
+			[
+				"health/view",
+				"rblog/base/health_product/views.py"
+			],
+			[
+				"motor/models",
+				"rblog/base/motor_product/models.py"
+			],
+			[
+				"crm/mo",
+				"rblog/base/crm/models.py"
+			],
+			[
+				"core/servic",
+				"rblog/base/core/services.py"
+			],
+			[
+				"motor/mod",
+				"rblog/base/motor_product/models.py"
+			],
+			[
+				"motor/mode",
+				"rblog/base/motor_product/models.py"
+			],
+			[
+				"cfcron/mo",
+				"rblog/base/cfcrons/models.py"
+			],
+			[
+				"renewal/tas",
+				"rblog/base/renewal/tasks.py"
+			],
+			[
+				"cache_u",
+				"rblog/base/motor_product/cache_utils.py"
+			],
+			[
+				"common/dis",
+				"rblog/common/dispatch.py"
+			],
+			[
+				"base/crm/sin",
+				"rblog/base/crm/signals.py"
+			],
+			[
+				"heal/mod",
+				"rblog/base/health_product/models.py"
+			],
+			[
+				"base/set",
+				"rblog/base/settings.py"
+			],
+			[
+				"netcore",
+				"rblog/base/renewal/netcore_service.py"
+			],
+			[
+				"otp/templates/",
+				"rblog/base/otp/templates/regular-otp-popup.html"
+			],
+			[
+				"true/tests",
+				"rblog/base/truecaller/tests.py"
+			],
+			[
+				"otp/_",
+				"rblog/base/otp/__init__.py"
+			],
+			[
+				"otp__in",
+				"envproj/src/django-oauth-toolkit/oauth2_provider/__init__.py"
+			],
+			[
+				"test_flo",
+				"rblog/tests/truecaller/test_flow.py"
+			],
+			[
+				"true/view",
+				"rblog/base/truecaller/views.py"
+			],
+			[
+				"webhook/vi",
+				"rblog/base/freshdesk_webhook/views.py"
+			],
+			[
+				"core/conf",
+				"rblog/tests/core/conftest.py"
+			],
+			[
+				"ren/task",
+				"rblog/base/renewal/tasks.py"
+			],
+			[
+				"otp/vie",
+				"rblog/base/otp/views.py"
+			],
+			[
+				"truecaller/mo",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"policy/test_ren",
+				"rblog/tests/motor/policy/test_renewal_functions.py"
+			],
+			[
+				"event.p",
+				"rblog/base/core/event.py"
+			],
+			[
+				"tests/otp/",
+				"rblog/tests/otp/test_views.py"
+			],
+			[
+				"true/ser",
+				"rblog/base/truecaller/services.py"
+			],
+			[
+				"core/even",
+				"rblog/base/core/event.py"
+			],
+			[
+				"utils",
+				"rblog/libs/utils.py"
+			],
+			[
+				"middle",
+				"rblog/base/core/middlewares.py"
+			],
+			[
+				"true/uls",
+				"rblog/base/truecaller/urls.py"
+			],
+			[
+				"otp/mo",
+				"envproj/src/django-oauth-toolkit/oauth2_provider/models.py"
+			],
+			[
+				"life/mo",
+				"rblog/base/life_product/models.py"
+			],
+			[
+				"truecaller/vi",
+				"rblog/base/truecaller/views.py"
+			],
+			[
+				"otp/url",
+				"rblog/base/otp/urls.py"
+			],
+			[
+				"truecaller/urls",
+				"rblog/base/truecaller/urls.py"
+			],
+			[
+				"truecaller/viw",
+				"rblog/base/truecaller/views.py"
+			],
+			[
+				"crm/migratons/",
+				"rblog/base/crm/migrations/0029_add_dispostion_sub_dispostion_for_closed_resolved_tasks.py"
+			],
+			[
+				"motor_prod/mod",
+				"rblog/base/motor_product/models.py"
+			],
+			[
+				"rene/mot/ser",
+				"rblog/base/renewal/motor/services.py"
+			],
+			[
+				"transaction_ser",
+				"rblog/base/motor_product/service/transaction_service.py"
+			],
+			[
+				"motor_pro/view",
+				"rblog/base/motor_product/views.py"
+			],
+			[
+				"buy/in",
+				"rblog/static/motor_product/amd-js/models/buy/index.js"
+			],
+			[
+				"desktop/ind",
+				"rblog/static/motor_product/amd-js/models/desktop/steps/index.js"
+			],
+			[
+				"fabfil",
+				"rblog/fabfile.py"
+			],
+			[
+				"camp/motor/exi",
+				"rblog/base/templates/campaign/motor/expired-car-insurance.html"
+			],
+			[
+				"campain/url",
+				"rblog/base/campaign/urls.py"
+			],
+			[
+				"campaing/view",
+				"rblog/base/campaign/views.py"
+			],
+			[
+				"marketing/ur",
+				"rblog/base/marketing/urls.py"
+			],
+			[
+				"truecaller/",
+				"rblog/base/truecaller/models.py"
+			],
+			[
+				"true/urls.py",
+				"rblog/base/travel_product/urls.py"
+			],
+			[
+				"urls.",
+				"rblog/base/urls.py"
+			],
+			[
+				"cache_",
+				"rblog/base/motor_product/cache_utils.py"
+			],
+			[
+				"multiqu",
+				"rblog/libs/multi_query_set_paginator.py"
+			],
+			[
+				"motor_pro/vi",
+				"rblog/base/motor_product/views.py"
+			],
+			[
+				"report/tuils",
+				"rblog/base/crm/reports/utils.py"
+			],
+			[
+				"rene/task",
+				"rblog/base/renewal/tasks.py"
+			],
+			[
+				"ultron_da",
+				"rblog/base/scripts/ONE_OFF_SCRIPTS/ultron_data_fixes.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"!=="
+			],
+			[
+				"post_tran",
+				"post_transaction_old"
+			],
+			[
+				"post_t",
+				"post_transaction"
+			]
+		],
+		"width": 998.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,42 @@
+<h1>Test Template</h1>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        socket = new WebSocket("ws://" + window.location.host + '/chat/general/?name={{name}}')
+
+        socket.onmessage = function(e) {
+            console.log("messsage received")
+            $("ul.receive").append("<li>" + e.data + "</li>")
+            console.log(e.data)
+        }
+
+        socket.onopen = function() {
+            socket.send('connection initiated')
+        }
+
+        if (socket.readyState == WebSocket.OPEN) socket.onopen()
+
+
+        $('button').click(function(){
+            msg = $('input[name="msg"]').val()
+            socket.send(msg)
+            $("ul.send").append("<li>" + msg + "</li>")
+        })
+    })
+</script>
+
+
+<ul class="send" style="color: red">
+
+</ul>
+
+<ul class="receive" style="color: green">
+
+</ul>
+
+
+<br>
+<input type="text" name="msg" value="submit">
+<button>Submit</button>
